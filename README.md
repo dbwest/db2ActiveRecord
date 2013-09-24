@@ -1,6 +1,10 @@
 db2ActiveRecord
 ===============
 
+A proof of concept that runs cucumber tests against a web app with a DB2 database using ActiveRecord
+
+**These instructions pertain to OS X Mountain Lion**
+
 ## DB2 ##
 1. **Download [db2](https://www14.software.ibm.com/webapp/iwm/web/download.do?source=swg-db2expressc&S_PKG=dlmacosx&S_TACT=100KG31W&lang=en_US&dlmethod=http)**
 3. **Install the Java JDK if you need to**
