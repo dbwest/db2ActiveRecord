@@ -10,6 +10,6 @@ db2ActiveRecord
 2. **Install ruby 1.8.7 (please use rvm): `rvm install 1.8.7` (you may need to do `rvm get stable && rvm install 1.8.7 --verify-downloads 1` instead)** 
 3. **`rvm use 1.8.7`**
 4. **`rvm gemset create db2ActiveRecord`**
-5. **`gem install bundler`**
-6. **`gem install rails`**
+5. **`gem install bundler -V`**
+6. **`gem install rails -V`**
 6. **`bundle`**
