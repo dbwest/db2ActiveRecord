@@ -3,6 +3,7 @@ db2ActiveRecord
 
 ## DB2 ##
 1. **Download [db2](https://www14.software.ibm.com/webapp/iwm/web/download.do?source=swg-db2expressc&S_PKG=dlmacosx&S_TACT=100KG31W&lang=en_US&dlmethod=http)**
+3. **Install the Java JDK if you need to**
 2. **run the script 'db2setup' in the 'expc' directory after you unzip and extract the .tar file `./db2setup`**
 
 ## Ruby prerequisites ##
