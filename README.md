@@ -11,4 +11,5 @@ db2ActiveRecord
 3. **`rvm use 1.8.7`**
 4. **`rvm gemset create db2ActiveRecord`**
 5. **`gem install bundler`**
+6. **`gem install rails`**
 6. **`bundle`**
